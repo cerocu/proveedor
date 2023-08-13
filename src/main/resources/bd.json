@@ -1,0 +1,51 @@
+[
+  {
+  "name": "carlos",
+  "businessName": "XXXXX",
+  "direction": "yautpec",
+  "enabled": true
+  },
+  {
+
+    "name": "juan",
+    "businessName": "XXXXX",
+    "direction": "yautpec2",
+    "enabled": false
+  },
+  {
+
+    "name": "lopez",
+    "businessName": "XXXXX",
+    "direction": "yautpec2",
+    "enabled": false
+  },
+  {
+
+    "name": "roberto",
+    "businessName": "XXXXX",
+    "direction": "yautpec2",
+    "enabled": false
+  },
+  {
+
+    "name": "othon",
+    "businessName": "XXXXX",
+    "direction": "yautpec2",
+    "enabled": false
+  },
+  {
+
+    "name": "fran",
+    "businessName": "XXXXX",
+    "direction": "yautpec2",
+    "enabled": false
+  },
+  {
+
+    "name": "pedro",
+    "businessName": "XXXXX",
+    "direction": "yautpec2",
+    "enabled": false
+  }
+
+]
